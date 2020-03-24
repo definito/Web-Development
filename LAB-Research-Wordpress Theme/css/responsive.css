@@ -1,0 +1,37 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1280px) { 
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ 
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (max-width: 768px) { 
+.banner-text h2 {
+  font-size: 22px;
+  }
+.banner-text p {
+  font-size: 17px;
+  } 
+.page-title-text h3 {
+  font-size: 30px;  
+}  
+ul.menu-right {
+  float: none;
+  text-align: center;
+}
+.navbar-inverse {
+  background-color: rgba(0, 0, 0, .8);
+}
+
+}
